@@ -16,7 +16,7 @@ cffi==1.11.5
 chardet==3.0.4
 Click==7.0
 client==0.0.1
-cryptography==2.5
+cryptography==3.2
 cupshelpers==1.0
 decorator==4.0.10
 defer==1.0.6
