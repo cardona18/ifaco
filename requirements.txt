@@ -6,7 +6,7 @@ asn1crypto==0.24.0
 asset==0.6.12
 automium==0.2.6
 automium-web==0.1.1
-Babel==2.3.4
+Babel==2.9.1
 beautifulsoup4==4.7.1
 bottle==0.12.16
 bottle-werkzeug==0.1.1
