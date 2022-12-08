@@ -11,7 +11,7 @@ beautifulsoup4==4.7.1
 bottle==0.12.16
 bottle-werkzeug==0.1.1
 Brlapi==0.6.6
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
